@@ -26,7 +26,7 @@ var all = {
 
   // Secret for session, you will want to change this and make it an environment variable
   secrets: {
-    session: 'cedar-info-secret'
+    session: '4f0596jcaweizjud437086xsakerjt34d89:"$§%":fcwev59'
   },
 
   // List of user roles
