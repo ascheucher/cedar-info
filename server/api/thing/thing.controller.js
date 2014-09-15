@@ -45,7 +45,7 @@ exports.index = function(req, res) {
                         })
                         idx++;
                     } else {
-                        processors[idx - 1]['attrs'].push({name: attrName, value: tokens[1]});
+                        processors[idx - 1].attrs.push({name: attrName, value: tokens[1]});
                     }
                 });
             }
